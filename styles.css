@@ -61,6 +61,8 @@ body {
     background: #e68900;
 }
 
-.zero {
-    grid-column: span 2;
+.equal {
+    background: #0ae035;
+    color: #d7eccb;
+    padding: 20px;
 }
